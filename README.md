@@ -6,11 +6,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... repostitories
-- 🌱 I’m currently learning ... coding
+- 🌱 I’m currently learning ... coding''
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... coding
+- 🤔 I’m looking for help with ... coding--
 - 💬 Ask me about ... coding
-- 📫 How to reach me: ... hpeacock.24@acsamman.edu.jo
-- 😄 Pronouns: ... He/Him
+- 📫 How to reach me: ... *hpeacock.24@acsamman.edu.jo*
+- 😄 Pronouns: ... _He/Him_
 - ⚡ Fun fact: ... N/A
 -->
+H3 
+H1
